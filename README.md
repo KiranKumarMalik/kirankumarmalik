@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kiran Kumar Malik</h1>
+<h1 align="center">Hi 👋, I'm Kiran</h1>
 <h3 align="center">I'm an innovative thinker with 2 years’ experience in Cloud Computing, Operating System, Web Development and Data Science. I am a Practical Knowledge seeker. I like to work in teams and enjoy projects that require multi-disciplinary collaboration. Looking to leverage my skills to produce seamless and profitable UI for Semtex Systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirankumarmalik&label=Profile%20views&color=0e75b6&style=flat" alt="kirankumarmalik" /> </p>
