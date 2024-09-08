@@ -1,23 +1,53 @@
-<h1 align="center">Hi 👋, I'm Kiran</h1>
-<h3 align="center">I'm an innovative thinker with 2 years’ experience in Cloud Computing, Operating System, Web Development and Data Science. I am a Practical Knowledge seeker. I like to work in teams and enjoy projects that require multi-disciplinary collaboration. Looking to leverage my skills to produce seamless and profitable UI for Semtex Systems.</h3>
+<h1>💫Hi friends, I'm <a href="https://kirankumarmalik.me/">Kiran Kumar Malik </a>👋</h1>
+
+<img src="https://KiranKumarMalik.github.io/chinmayakumarbiswal/welcome.gif" height="300px" width="300px"> 
+
+•	🔭 I’m a Fresher!!!
+
+•	🌱 I have knowledge on Cloud Technology, DevOps and Python Programming.
+
+•	🤔 I’m looking for Full-time opportunity and research projects in the field of Cloud Computing, DevOps, Python Software/Full-Stack Development, Machine Learning and AI.
+
+•	💬 Ask me about AWS or any tech related to Cloud and Python.
+
+•	😄 Pronouns: He/His
+
+•	📫 How to reach me:
+   <a href="https://codepen.io/https://codepen.io/kirankumarmalik" target="blank">
+      <img align="center" src="https://cdn.freebiesupply.com/logos/thumbs/2x/codepen-logo.png" alt="https://codepen.io/kirankumarmalik" height="50" width="50" /> 
+   </a>
+   <a href="https://linkedin.com/in/https://www.linkedin.com/in/kiran-kumar-malik-01006a202/" target="blank">
+      <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" alt="https://www.linkedin.com/in/kiran-kumar-malik-01006a202/" height="50" width="50" />
+      </a>
+   <a href="https://kaggle.com/https://www.kaggle.com/kirankumarmalik" target="blank">
+      <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="https://www.kaggle.com/kirankumarmalik" height="50" width="50" />
+   </a>
+  <a href="https://fb.com/https://www.facebook.com/profile.php?id=100013623729164&mibextid=zbwkwl" target="blank">
+      <img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-facebook-social-media-icon-png-image_6315968.png" alt="https://www.facebook.com/profile.php?id=100013623729164&mibextid=zbwkwl" height="50" width="50" />
+      </a>
+  <a href="https://instagram.com/https://www.instagram.com/spyder__.kiran/" target="blank">
+      <img align="center" src="https://static.vecteezy.com/system/resources/previews/012/493/083/non_2x/instagram-logo-3d-illustration-free-png.png" alt="https://www.instagram.com/spyder__.kiran/" height="50" width="50" />
+  </a>
+  <a href="https://www.hackerrank.com/https://www.hackerrank.com/malikkiran413" target="blank">
+      <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/768px-HackerRank_logo.png" alt="https://www.hackerrank.com/malikkiran413" height="60" width="60" />
+  </a>
+<br>
+<img src="https://chinmayakumarbiswal.github.io/chinmayakumarbiswal/work.gif" height="400px" width="600px"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirankumarmalik&label=Profile%20views&color=0e75b6&style=flat" alt="kirankumarmalik" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirankumarmalik" alt="kirankumarmalik" /></a> </p>
 
+# 😎Describe about  me
+
+
+⚡ I am currently pursuing Master in Computer Application from Centurion University of Technology and Management , BBSR , Odisha .
+
+⚡ I am looking for growth. Currently, I’m looking for for internships and research projects in the field of Cloud Computing and to build up my career and skills. 
+
 - 👨‍💻 All of my projects are available at [https://kirankumarmalik.me/](https://kirankumarmalik.me/)
 
-- 📫 How to reach me **malikkiran413@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/kirankumarmalik" target="blank"><img align="center" src="https://cdn.freebiesupply.com/logos/thumbs/2x/codepen-logo.png" alt="https://codepen.io/kirankumarmalik" height="50" width="50" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kiran-kumar-malik-01006a202/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" alt="https://www.linkedin.com/in/kiran-kumar-malik-01006a202/" height="50" width="50" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/kirankumarmalik" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="https://www.kaggle.com/kirankumarmalik" height="50" width="50" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100013623729164&mibextid=zbwkwl" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-facebook-social-media-icon-png-image_6315968.png" alt="https://www.facebook.com/profile.php?id=100013623729164&mibextid=zbwkwl" height="50" width="50" /></a>
-<a href="https://instagram.com/https://www.instagram.com/spyder__.kiran/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/012/493/083/non_2x/instagram-logo-3d-illustration-free-png.png" alt="https://www.instagram.com/spyder__.kiran/" height="50" width="50" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/malikkiran413" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/768px-HackerRank_logo.png" alt="https://www.hackerrank.com/malikkiran413" height="60" width="60" /></a>
-</p>
 
 <h3 align="left">Certifications:</h3>
 
@@ -27,9 +57,62 @@
 <p align="left"> <a href="https://www.credly.com/badges/54a1ae54-a919-4646-a33e-6b111d456d2d/public_url" target="_blank" rel="noreferrer"> <img src="Screenshot 2023-10-09 100447.png" alt="salesforce" width="100" height="100"/> </a></p>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://zeevector.com/wp-content/uploads/Android-robot-png.png" alt="android" width="50" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png" alt="arduino" width="50" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Symbol.png" alt="aws" width="50" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/628/224/png-transparent-bootstrap-plain-wordmark-logo-icon.png" alt="bootstrap" width="50" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="50" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="css3" width="50" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://nyesteventuretech.com/images/asp.png" alt="dotnet" width="50" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/398/821/png-transparent-firebase-google-google-i-o-icon.png" alt="firebase" width="50" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/777/274/png-clipart-google-cloud-platform-cloud-computing-microsoft-azure-business-cloud-computing-text-logo.png" alt="gcp" width="50" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:400/1*hX_l9M_WJkaupAwEwB7mZQ.png" alt="git" width="50" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoi_vInYC103EwwOn6qaHGt4JerrukhHB6kkPmFxEkh-AUwe5xv7uRAdLfHlXgaPdFRLE&usqp=CAU" alt="html5" width="50" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180621/jow/kisspng-plain-old-java-object-programming-language-compute-5b2b6405b39ad9.4848800015295703097357.jpg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-nnHtdLGKfMdl62rDAml_Boq3u1SZA76iNuGtg79V7uoFm38xezL9eMXg5ooYe78PGE&usqp=CAU" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+# 💻 Tech Stack:
+#### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+
+#### Hosting/SaaS
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+
+
+### FRAMEWORKS, PLATFORMS & LIBRARIES
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+
+### SERVERS
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
+
+
+
+### DATABASES
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![OracleSQL](https://img.shields.io/badge/oracle-sql?style=for-the-badge&logo=oracle&color=red) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AmazonRDS](https://img.shields.io/badge/Amazon_RDS-%061c8a.svg?style=for-the-badge&logo=amazonrds&logoColor=white)
+
+
+### DESIGN
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+
+
+### ML/DL
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/matplotlib-%13ac09.svg?style=for-the-badge&logo=matplotlib&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![SpeechRecognition](https://img.shields.io/badge/speech_recognition-%061c8a.svg?style=for-the-badge&logo=speechrecognition&logoColor=white) ![Seaborn](https://img.shields.io/badge/seaborn-%061c8a.svg?style=for-the-badge&logo=seaborn&logoColor=white) ![PYTTSX3](https://img.shields.io/badge/Pyttsx3-%04b07f.svg?style=for-the-badge&logo=pyttsx3&logoColor=white) ![pywhatkit](https://img.shields.io/badge/pywhatkit-%9006a5.svg?style=for-the-badge&logo=pywhatkit&logoColor=white) ![wikipedia](https://img.shields.io/badge/wikipedia-%a54c06.svg?style=for-the-badge&logo=wikipedia&logoColor=white)
+![Pyjokes](https://img.shields.io/badge/pyjokes-%cc0ba9.svg?style=for-the-badge&logo=pyjokes&logoColor=white) ![Selenium](https://img.shields.io/badge/selenium-%cc0b3a.svg?style=for-the-badge&logo=selenium&logoColor=white) 
+
+
+
+### OTHER
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Agile](https://img.shields.io/badge/agile-%cc0b0b.svg?style=for-the-badge&logo=agile&logoColor=white) 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirankumarmalik&show_icons=true&locale=en&layout=compact" alt="kirankumarmalik" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirankumarmalik&show_icons=true&locale=en" alt="kirankumarmalik" /></p>
+# 📊 GitHub Stats:
+<img src="https://github-readme-stats.vercel.app/api?username=KiranKumarMalik&show_icons=true&theme=outrun&count_private=true" height="auto" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KiranKumarMalik&theme=outrun&hide_border=false" height="auto" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiranKumarMalik&layout=compact&theme=outrun" height="auto" width="100%"/>
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=KiranKumarMalik&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+## 🐦 Latest Tweet
+<img src="https://gtce.itsvg.in/api?username=KiranKumarMalik&theme=outrun" height="auto" width="100%"/>
+
+### Thanks for Visiting my GitHub Profile!
+
+---
+<p align="center">
+<img src="https://KiranKumarMalik.github.io/kirankumarmalik/snake.svg">
+</p>
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=chinmayakumarbiswal&icon=7&color=10)](https://kirankumarmalik.me)
