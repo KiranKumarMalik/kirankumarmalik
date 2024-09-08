@@ -32,7 +32,7 @@
       <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/768px-HackerRank_logo.png" alt="https://www.hackerrank.com/malikkiran413" height="60" width="60" />
   </a>
 <br>
-<img src="https://chinmayakumarbiswal.github.io/chinmayakumarbiswal/work.gif" height="400px" width="600px"> 
+<img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/931c474ab1c193c3e1b32a61819ee2eabe7c988e/1709674937953.gif" height="400px" width="600px"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirankumarmalik&label=Profile%20views&color=0e75b6&style=flat" alt="kirankumarmalik" /> </p>
 
