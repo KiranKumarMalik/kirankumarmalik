@@ -39,9 +39,9 @@
 # 😎Describe about  me
 
 
-⚡ I am currently pursuing Master in Computer Application from Centurion University of Technology and Management , BBSR , Odisha .
+⚡ I have completed my B-Tech Computer Science and Engineering from Centurion University of Technology and Management , BBSR , Odisha.
 
-⚡ I am looking for growth. Currently, I’m looking for for internships and research projects in the field of Cloud Computing and to build up my career and skills. 
+⚡ I am looking for career growth. Currently, I’m looking for for full-time opportunity and research projects in the field of Cloud Computing and to build up my career and skills. 
 
 - 👨‍💻 All of my projects are available at [https://kirankumarmalik.me/](https://kirankumarmalik.me/)
 
@@ -81,13 +81,13 @@
 
 
 ### ML/DL
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/matplotlib-%13ac09.svg?style=for-the-badge&logo=matplotlib&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![SpeechRecognition](https://img.shields.io/badge/speech_recognition-%061c8a.svg?style=for-the-badge&logo=speechrecognition&logoColor=white) ![Seaborn](https://img.shields.io/badge/seaborn-%061c8a.svg?style=for-the-badge&logo=seaborn&logoColor=white) ![PYTTSX3](https://img.shields.io/badge/Pyttsx3-%04b07f.svg?style=for-the-badge&logo=pyttsx3&logoColor=white) ![pywhatkit](https://img.shields.io/badge/pywhatkit-%9006a5.svg?style=for-the-badge&logo=pywhatkit&logoColor=white) ![wikipedia](https://img.shields.io/badge/wikipedia-%a54c06.svg?style=for-the-badge&logo=wikipedia&logoColor=white)
-![Pyjokes](https://img.shields.io/badge/pyjokes-%cc0ba9.svg?style=for-the-badge&logo=pyjokes&logoColor=white) ![Selenium](https://img.shields.io/badge/selenium-%cc0b3a.svg?style=for-the-badge&logo=selenium&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/matplotlib-%13ac09.svg?style=for-the-badge&logo=matplotlib&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![SpeechRecognition](https://img.shields.io/badge/speech_recognition-%061c8a.svg?style=for-the-badge&logo=speechrecognition&logoColor=white) ![Seaborn](https://img.shields.io/badge/seaborn-061c8a.svg?style=for-the-badge&logo=seaborn&logoColor=blue) ![PYTTSX3](https://img.shields.io/badge/Pyttsx3-04b07f.svg?style=for-the-badge&logo=pyttsx3&logoColor=white) ![pywhatkit](https://img.shields.io/badge/pywhatkit-9006a5.svg?style=for-the-badge&logo=pywhatkit&logoColor=white) ![wikipedia](https://img.shields.io/badge/wikipedia-a54c06.svg?style=for-the-badge&logo=wikipedia&logoColor=white)
+![Pyjokes](https://img.shields.io/badge/pyjokes-cc0ba9.svg?style=for-the-badge&logo=pyjokes&logoColor=white) ![Selenium](https://img.shields.io/badge/selenium-cc0b3a.svg?style=for-the-badge&logo=selenium&logoColor=white) 
 
 
 
 ### OTHER
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Agile](https://img.shields.io/badge/agile-%cc0b0b.svg?style=for-the-badge&logo=agile&logoColor=white) 
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Agile](https://img.shields.io/badge/agile-%cc0b0b.svg?style=for-the-badge&logo=agile&logoColor=white) 
 
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiranKumarMalik&layout=compact&theme=outrun" alt="kirankumarmalik" /></p>
