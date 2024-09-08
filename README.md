@@ -34,7 +34,6 @@
 <br>
 <img width="38%" src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cf53cc5ae6b034566f6bc1021606c56731634a4e/content.gif"/>
 
-  <img align="right" width="50%" src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/8f28457729637c76e117856084377bf3d709305a/1722374286022.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirankumarmalik&label=Profile%20views&color=0e75b6&style=flat" alt="kirankumarmalik" /> </p>
 
