@@ -96,7 +96,7 @@
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiranKumarMalik&layout=compact&theme=outrun" alt="kirankumarmalik" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KiranKumarMalik&show_icons=true&theme=outrun&count_private=true" alt="kirankumarmalik" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=KiranKumarMalik&theme=outrun&hide_border=false" height="auto" width="80%"/></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=KiranKumarMalik&theme=outrun&hide_border=false" height="auto" width="90%"/></p>
 
 
 ## 🏆 GitHub Trophies
