@@ -32,10 +32,8 @@
       <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/768px-HackerRank_logo.png" alt="https://www.hackerrank.com/malikkiran413" height="60" width="60" />
   </a>
 <br>
-<p><img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cf53cc5ae6b034566f6bc1021606c56731634a4e/content.gif" height="400px" width="400px"></p>
-<p>&nbsp;<img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cf53cc5ae6b034566f6bc1021606c56731634a4e/content.gif" height="400px" width="400px"></p>
-<p><img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cf53cc5ae6b034566f6bc1021606c56731634a4e/content.gif" height="400px" width="400px"></p>
-<p><img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cf53cc5ae6b034566f6bc1021606c56731634a4e/content.gif" height="400px" width="400px"></p>
+
+<img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cf53cc5ae6b034566f6bc1021606c56731634a4e/content.gif" height="400px" width="400px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirankumarmalik&label=Profile%20views&color=0e75b6&style=flat" alt="kirankumarmalik" /> </p>
 
