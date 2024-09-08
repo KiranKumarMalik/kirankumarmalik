@@ -93,7 +93,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirankumarmalik&show_icons=true&locale=en" alt="kirankumarmalik" /></p>
 # 📊 GitHub Stats:
-<p><img src="https://github-readme-stats.vercel.app/api?username=KiranKumarMalik&show_icons=true&theme=outrun&count_private=true" height="auto" width="100%"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=KiranKumarMalik&show_icons=true&theme=outrun&count_private=true" height="auto" width="80%"/></p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiranKumarMalik&theme=outrun&hide_border=false" height="auto" width="100%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiranKumarMalik&layout=compact&theme=outrun" height="auto" width="100%"/>
 
