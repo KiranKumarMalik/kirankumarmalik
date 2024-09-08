@@ -32,7 +32,10 @@
       <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/768px-HackerRank_logo.png" alt="https://www.hackerrank.com/malikkiran413" height="60" width="60" />
   </a>
 <br>
+<img align="right" width="38%" src="[https://i.imgur.com/VxANS89.jpg](https://github.com/KiranKumarMalik/kirankumarmalik/blob/cf53cc5ae6b034566f6bc1021606c56731634a4e/content.gif)"/>
 
+  <a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Giingu&theme=radical&title_color=ff3068?"></a>
+  <a href="https://github.com/Giingu"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Giingu&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 <img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cf53cc5ae6b034566f6bc1021606c56731634a4e/content.gif" height="400px" width="400px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirankumarmalik&label=Profile%20views&color=0e75b6&style=flat" alt="kirankumarmalik" /> </p>
