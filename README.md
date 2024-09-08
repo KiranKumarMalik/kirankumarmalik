@@ -110,7 +110,7 @@
 
 ---
 <p align="center">
-<img src="https://KiranKumarMalik.github.io/kirankumarmalik/snake.svg">
+<img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/391d586b6eb6553274cda331607081c275af44cf/snake.svg">
 </p>
 
 
