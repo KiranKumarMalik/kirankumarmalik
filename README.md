@@ -115,4 +115,4 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=chinmayakumarbiswal&icon=7&color=10)](https://kirankumarmalik.me)
+[![](https://visitcount.itsvg.in/api?id=KiranKumarMalik&icon=7&color=10)](https://kirankumarmalik.me)
