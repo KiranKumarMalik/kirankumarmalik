@@ -32,8 +32,8 @@
       <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/768px-HackerRank_logo.png" alt="https://www.hackerrank.com/malikkiran413" height="60" width="60" />
   </a>
 <br>
-<p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=KiranKumarMalik&layout=compact&theme=outrun](https://github.com/KiranKumarMalik/kirankumarmalik/blob/cf53cc5ae6b034566f6bc1021606c56731634a4e/content.gif)" alt="kirankumarmalik" /></p>
-<p>&nbsp;<img align="center" src="[https://github-readme-stats.vercel.app/api?username=KiranKumarMalik&show_icons=true&theme=outrun&count_private=true](https://github.com/KiranKumarMalik/kirankumarmalik/blob/cf53cc5ae6b034566f6bc1021606c56731634a4e/content.gif)" alt="kirankumarmalik" /></p>
+<p><img align="left" src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cf53cc5ae6b034566f6bc1021606c56731634a4e/content.gif" alt="kirankumarmalik" /></p>
+<p>&nbsp;<img align="center" src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cf53cc5ae6b034566f6bc1021606c56731634a4e/content.gif" alt="kirankumarmalik" /></p>
 <p><img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cf53cc5ae6b034566f6bc1021606c56731634a4e/content.gif" height="400px" width="400px"></p>
 <p><img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cf53cc5ae6b034566f6bc1021606c56731634a4e/content.gif" height="400px" width="400px"></p>
 
