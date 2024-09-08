@@ -36,8 +36,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirankumarmalik&label=Profile%20views&color=0e75b6&style=flat" alt="kirankumarmalik" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirankumarmalik" alt="kirankumarmalik" /></a> </p>
-
 # 😎Describe about  me
 
 
@@ -95,7 +93,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirankumarmalik&show_icons=true&locale=en" alt="kirankumarmalik" /></p>
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=KiranKumarMalik&show_icons=true&theme=outrun&count_private=true" height="auto" width="100%"/>
+<p><img src="https://github-readme-stats.vercel.app/api?username=KiranKumarMalik&show_icons=true&theme=outrun&count_private=true" height="auto" width="100%"/></p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiranKumarMalik&theme=outrun&hide_border=false" height="auto" width="100%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiranKumarMalik&layout=compact&theme=outrun" height="auto" width="100%"/>
 
