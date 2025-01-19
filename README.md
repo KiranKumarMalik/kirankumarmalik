@@ -43,7 +43,7 @@
 
 ⚡ I have completed my B-Tech Computer Science and Engineering from Centurion University of Technology and Management , BBSR , Odisha.
 
-⚡ I am looking for career growth. Currently, I’m looking for for full-time opportunity and research projects in the field of Cloud Computing and to build up my career and skills. 
+⚡ I am looking for career growth. Currently, I’m looking for for full-time opportunity and research projects in the field of Cloud Computing, Data Analyst, Python Full-Stack Development and to build up my career and skills. 
 
 - 👨‍💻 All of my projects are available at [https://kirankumarmalik.me/](https://kirankumarmalik.me/)
 
@@ -89,6 +89,8 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/matplotlib-13ac09.svg?style=for-the-badge&logo=matplotlib&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![SpeechRecognition](https://img.shields.io/badge/speech_recognition-0bccb5.svg?style=for-the-badge&logo=speechrecognition&logoColor=white) ![Seaborn](https://img.shields.io/badge/seaborn-061c8a.svg?style=for-the-badge&logo=seaborn&logoColor=blue) ![PYTTSX3](https://img.shields.io/badge/Pyttsx3-04b07f.svg?style=for-the-badge&logo=pyttsx3&logoColor=white) ![pywhatkit](https://img.shields.io/badge/pywhatkit-9006a5.svg?style=for-the-badge&logo=pywhatkit&logoColor=white) ![wikipedia](https://img.shields.io/badge/wikipedia-a54c06.svg?style=for-the-badge&logo=wikipedia&logoColor=white)
 ![Pyjokes](https://img.shields.io/badge/pyjokes-cc0ba9.svg?style=for-the-badge&logo=pyjokes&logoColor=white) ![Selenium](https://img.shields.io/badge/selenium-cc0b3a.svg?style=for-the-badge&logo=selenium&logoColor=white) 
 
+### Data Analysis
+![PowerBI](https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 
 ### OTHER
