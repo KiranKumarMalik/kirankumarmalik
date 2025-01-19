@@ -1,4 +1,4 @@
-<img width="50%" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"/>
+<img width="100%" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"/>
 <h1>💫Hi friends, I'm <a href="https://kirankumarmalik.me/">Kiran Kumar Malik </a>👋</h1>
 
 <img src="https://KiranKumarMalik.github.io/chinmayakumarbiswal/welcome.gif" height="300px" width="300px"> 
