@@ -97,7 +97,7 @@
 
 
 ### OTHER
-[![My Skills](https://skillicons.dev/icons?i=linux,ansible,docker,kubernetes,terraform)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=linux,ansible,docker,kubernetes,terraform,ubuntu,wordpress)](https://skillicons.dev) 
 
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiranKumarMalik&layout=compact&theme=outrun" alt="kirankumarmalik" /></p>
