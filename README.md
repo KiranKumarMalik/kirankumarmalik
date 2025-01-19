@@ -90,7 +90,7 @@
 ![Pyjokes](https://img.shields.io/badge/pyjokes-cc0ba9.svg?style=for-the-badge&logo=pyjokes&logoColor=white) ![Selenium](https://img.shields.io/badge/selenium-cc0b3a.svg?style=for-the-badge&logo=selenium&logoColor=white) 
 
 ### Data Analysis
-![PowerBI](https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![PowerBI](https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 
 ### OTHER
