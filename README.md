@@ -59,7 +59,7 @@
 
 # 💻 Tech Stack:
 #### Languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,php,shellscript)](https://skillicons.dev)
 
 #### Hosting/SaaS
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=blue) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/azure-d60781.svg?style=for-the-badge&logo=azure&logoColor=blue)
