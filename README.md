@@ -59,7 +59,7 @@
 
 # 💻 Tech Stack:
 #### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 #### Hosting/SaaS
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=blue) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/azure-d60781.svg?style=for-the-badge&logo=azure&logoColor=blue)
@@ -90,7 +90,7 @@
 ![Pyjokes](https://img.shields.io/badge/pyjokes-cc0ba9.svg?style=for-the-badge&logo=pyjokes&logoColor=white) ![Selenium](https://img.shields.io/badge/selenium-cc0b3a.svg?style=for-the-badge&logo=selenium&logoColor=white) 
 
 ### Data Analysis
-![PowerBI](https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![PowerBI](https://img.shields.io/badge/POWERBI-FCC624?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau]()
 
 
 ### OTHER
