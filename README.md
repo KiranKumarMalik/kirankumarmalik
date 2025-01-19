@@ -65,7 +65,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,django,react)](https://skillicons.dev)
 
 #### Hosting/SaaS
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,firebase,ec2)](https://skillicons.dev)
 
 #### AWS Services
 ![AWSIAM](https://img.shields.io/badge/Amazon%20IAM-%23FF9900.svg?style=for-the-badge&logo=amazoniam&logoColor=black) ![AWS VPC](https://img.shields.io/badge/Amazon%20VPC-green.svg?style=for-the-badge&logo=amazonapigateway&logoColor=black) ![AmazonEC2](https://img.shields.io/badge/Amazon%20EC2-900C3F.svg?style=for-the-badge&logo=amazonec2&logoColor=white) ![Amazon Cloud Watch](https://img.shields.io/badge/Amazon%20CloudWatch-581845.svg?style=for-the-badge&logo=amazoncloudwatch&logoColor=white) ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-orange.svg?style=for-the-badge&logo=amazons3&logoColor=white) ![AmazonSES](https://img.shields.io/badge/Amazon%20SES-9707d6.svg?style=for-the-badge&logo=amazonsimpleemailservice&logoColor=white) ![AmazonAPI](https://img.shields.io/badge/Amazon%20API%20Gateway-d66807.svg?style=for-the-badge&logo=amazonapigateway&logoColor=white) ![AmazonECS](https://img.shields.io/badge/Amazon%20ECS-d66807.svg?style=for-the-badge&logo=amazonecs&logoColor=white) ![AmazonELB](https://img.shields.io/badge/Amazon%20ELB-07d6b3.svg?style=for-the-badge&logo=awselasticloadbalancing&logoColor=black) ![AmazonEKS](https://img.shields.io/badge/Amazon%20EKS-270b68.svg?style=for-the-badge&logo=amazoneks&logoColor=white) ![AmazonLambda](https://img.shields.io/badge/Amazon%20Lambda-f4a004.svg?style=for-the-badge&logo=awslambda&logoColor=black)
