@@ -93,7 +93,7 @@
 ![Pyjokes](https://img.shields.io/badge/pyjokes-cc0ba9.svg?style=for-the-badge&logo=pyjokes&logoColor=white) ![Selenium](https://img.shields.io/badge/selenium-cc0b3a.svg?style=for-the-badge&logo=selenium&logoColor=white) 
 
 ### Data Analysis
-![PowerBI](https://img.shields.io/badge/POWERBI-FCC624?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau]()
+![PowerBI](https://img.shields.io/badge/POWERBI-FCC624?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau&logoColor=black)
 
 
 ### OTHER
