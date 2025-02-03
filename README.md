@@ -23,12 +23,6 @@
    <a href="https://kaggle.com/https://www.kaggle.com/kirankumarmalik" target="blank">
       <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="https://www.kaggle.com/kirankumarmalik" height="50" width="50" />
    </a>
-  <a href="https://fb.com/https://www.facebook.com/profile.php?id=100013623729164&mibextid=zbwkwl" target="blank">
-      <img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-facebook-social-media-icon-png-image_6315968.png" alt="https://www.facebook.com/profile.php?id=100013623729164&mibextid=zbwkwl" height="50" width="50" />
-      </a>
-  <a href="https://instagram.com/https://www.instagram.com/spyder__.kiran/" target="blank">
-      <img align="center" src="https://static.vecteezy.com/system/resources/previews/012/493/083/non_2x/instagram-logo-3d-illustration-free-png.png" alt="https://www.instagram.com/spyder__.kiran/" height="50" width="50" />
-  </a>
   <a href="https://www.hackerrank.com/https://www.hackerrank.com/malikkiran413" target="blank">
       <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/768px-HackerRank_logo.png" alt="https://www.hackerrank.com/malikkiran413" height="60" width="60" />
   </a>
