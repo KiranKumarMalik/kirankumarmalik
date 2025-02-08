@@ -3,7 +3,7 @@
 
 <img src="https://KiranKumarMalik.github.io/chinmayakumarbiswal/welcome.gif" height="300px" width="300px"> 
 
-•	🔭 I’m a Fresher!!!
+•	 <img src="https://github.com/KiranKumarMalik/images/blob/main/Student.png" alt="Comet" width="50" />I’m a Fresher!!!
 
 •	🌱 I have knowledge on Cloud Technology, DevOps and Python Programming.👋
 
