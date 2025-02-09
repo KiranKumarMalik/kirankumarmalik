@@ -13,7 +13,7 @@
 
 •	 <img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cc0f9da636f2d1b28d4d36079e35ec3710c98ae5/Boy.png" alt="Boy" width="50" /> Pronouns: He/His
 
-•	 <img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cc0f9da636f2d1b28d4d36079e35ec3710c98ae5/reach.png" alt="reach" width="50" /> How to reach me:
+•	 <img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/8564b7a9ead202136e39d1282114497988e516d9/reach.png" alt="reach" width="50" /> How to reach me:
    <a href="https://leetcode.com/u/malikkiran413/" target="blank">
       <img align="center" src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/bfb23df74b97d335979514f4026f6f20217850e5/leetcode.png" alt="leetcode" height="40" width="40" /> 
    </a>
