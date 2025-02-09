@@ -109,7 +109,7 @@
 
 ---
 <p align="center">
-<img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/391d586b6eb6553274cda331607081c275af44cf/snake.svg">
+<img alt="KiranKumarMalik" style="width: 100%" src="https://github-readme-activity-graph.vercel.app/graph/?username=KiranKumarMalik&bg_color=0c3666&color=5fabee&line=1658a3&point=61dafb&hide_border=true&radius={{border_radius}}&area=true">
 </p>
 
 
