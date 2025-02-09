@@ -15,16 +15,16 @@
 
 •	📫 How to reach me:
    <a href="https://leetcode.com/u/malikkiran413/" target="blank">
-      <img align="center" src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/bfb23df74b97d335979514f4026f6f20217850e5/leetcode.png" alt="leetcode" height="50" width="50" /> 
+      <img align="center" src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/bfb23df74b97d335979514f4026f6f20217850e5/leetcode.png" alt="leetcode" height="40" width="40" /> 
    </a>
    <a href="https://www.linkedin.com/in/kirankm7/" target="blank">
-      <img align="center" src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/bfb23df74b97d335979514f4026f6f20217850e5/linkedin.png" alt="linkedin" height="50" width="50" />
+      <img align="center" src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/bfb23df74b97d335979514f4026f6f20217850e5/linkedin.png" alt="linkedin" height="40" width="40" />
       </a>
    <a href="https://kaggle.com/https://www.kaggle.com/kirankumarmalik" target="blank">
-      <img align="center" src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/8f9dab60e8b517627e3b0fac3576159df2aa92ec/kaggle.png" alt="https://www.kaggle.com/kirankumarmalik" height="50" width="50" />
+      <img align="center" src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/8f9dab60e8b517627e3b0fac3576159df2aa92ec/kaggle.png" alt="kaggle" height="40" width="40" />
    </a>
   <a href="https://www.hackerrank.com/https://www.hackerrank.com/malikkiran413" target="blank">
-      <img align="center" src="https://github.com/JayantGoel001/HackerRank/blob/aaa8ad8825ef005044bb7a1b9c805efd9a6726c4/HackerRank.png" alt="https://www.hackerrank.com/malikkiran413" height="50" width="60" />
+      <img align="center" src="https://github.com/JayantGoel001/HackerRank/blob/aaa8ad8825ef005044bb7a1b9c805efd9a6726c4/HackerRank.png" alt="hackerrank" height="40" width="40" />
   </a>
 <br>
 
