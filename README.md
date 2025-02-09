@@ -7,7 +7,7 @@
 
 •	 <img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cc0f9da636f2d1b28d4d36079e35ec3710c98ae5/Brain.png" alt="brain" width="50" /> 🌱 I have knowledge on Cloud Technology, DevOps and Python Programming.👋
 
-•	 <img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cc0f9da636f2d1b28d4d36079e35ec3710c98ae5/mag.png" alt="mag" width="50" /> I’m looking for Full-time opportunity and research projects in the field of Cloud Computing, DevOps, Python Software/Full-Stack Development, Machine Learning and AI.
+•	 <img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/f07ae088dbfaf648696cae914a3766dc9613cd80/mag.png" alt="mag" width="50" /> I’m looking for Full-time opportunity and research projects in the field of Cloud Computing, DevOps, Python Software/Full-Stack Development, Machine Learning and AI.
 
 •	 <img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cc0f9da636f2d1b28d4d36079e35ec3710c98ae5/Cloud.png" alt="cloud" width="50" /> Ask me about AWS or any tech related to Cloud and Python.
 
