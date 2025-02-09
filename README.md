@@ -1,4 +1,4 @@
-<img width="100%" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"/>
+<img width="100%" src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/b01a895c452c696164db5663d56773096af7cd2a/github.gif"/>
 <h1> <img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cc0f9da636f2d1b28d4d36079e35ec3710c98ae5/looking.png" alt="looking" width="50" />Hi friends, I'm <a href="https://kirankumarmalik.me/">Kiran Kumar Malik </a><img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/4cc18a07baee9be8855b99a12e5155cb12ec8372/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Comet" width="100" /></h1>
 
 <img src="https://KiranKumarMalik.github.io/chinmayakumarbiswal/welcome.gif" height="300px" width="300px"> 
