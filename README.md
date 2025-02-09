@@ -39,7 +39,7 @@
 
  <img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cc0f9da636f2d1b28d4d36079e35ec3710c98ae5/Laptop.png" alt="laptop" width="50" /> I am looking for career growth. Currently, I’m looking for for full-time opportunity and research projects in the field of Cloud Computing, Data Analyst, Python Full-Stack Development and to build up my career and skills. 
 
-- <img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/4cc18a07baee9be8855b99a12e5155cb12ec8372/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Comet" width="100" /> All of my projects are available at [https://kirankumarmalik.me/](https://kirankumarmalik.me/)
+- <img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/4cc18a07baee9be8855b99a12e5155cb12ec8372/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Comet" width="50" /> All of my projects are available at [https://kirankumarmalik.me/](https://kirankumarmalik.me/)
 
 
 
