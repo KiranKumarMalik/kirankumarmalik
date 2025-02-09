@@ -1,5 +1,5 @@
 <img width="100%" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"/>
-<h1>💫Hi friends, I'm <a href="https://kirankumarmalik.me/">Kiran Kumar Malik </a><img src="https://github.com/KiranKumarMalik/images/blob/main/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Comet" width="100" /></h1>
+<h1>💫Hi friends, I'm <a href="https://kirankumarmalik.me/">Kiran Kumar Malik </a><img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/4cc18a07baee9be8855b99a12e5155cb12ec8372/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Comet" width="100" /></h1>
 
 <img src="https://KiranKumarMalik.github.io/chinmayakumarbiswal/welcome.gif" height="300px" width="300px"> 
 
