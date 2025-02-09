@@ -1,5 +1,5 @@
 <img width="100%" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"/>
-<h1>💫Hi friends, I'm <a href="https://kirankumarmalik.me/">Kiran Kumar Malik </a><img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/4cc18a07baee9be8855b99a12e5155cb12ec8372/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Comet" width="100" /></h1>
+<h1> <img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cc0f9da636f2d1b28d4d36079e35ec3710c98ae5/looking.png" alt="looking" width="50" />Hi friends, I'm <a href="https://kirankumarmalik.me/">Kiran Kumar Malik </a><img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/4cc18a07baee9be8855b99a12e5155cb12ec8372/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Comet" width="100" /></h1>
 
 <img src="https://KiranKumarMalik.github.io/chinmayakumarbiswal/welcome.gif" height="300px" width="300px"> 
 
@@ -7,13 +7,13 @@
 
 •	 <img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cc0f9da636f2d1b28d4d36079e35ec3710c98ae5/Brain.png" alt="brain" width="50" /> 🌱 I have knowledge on Cloud Technology, DevOps and Python Programming.👋
 
-•	 <img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cc0f9da636f2d1b28d4d36079e35ec3710c98ae5/looking.png" alt="looking" width="50" /> I’m looking for Full-time opportunity and research projects in the field of Cloud Computing, DevOps, Python Software/Full-Stack Development, Machine Learning and AI.
+•	 <img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cc0f9da636f2d1b28d4d36079e35ec3710c98ae5/mag.png" alt="mag" width="50" /> I’m looking for Full-time opportunity and research projects in the field of Cloud Computing, DevOps, Python Software/Full-Stack Development, Machine Learning and AI.
 
 •	 <img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cc0f9da636f2d1b28d4d36079e35ec3710c98ae5/Cloud.png" alt="cloud" width="50" /> Ask me about AWS or any tech related to Cloud and Python.
 
 •	 <img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cc0f9da636f2d1b28d4d36079e35ec3710c98ae5/Boy.png" alt="Boy" width="50" /> Pronouns: He/His
 
-•	📫 How to reach me:
+•	 <img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cc0f9da636f2d1b28d4d36079e35ec3710c98ae5/reach.png" alt="reach" width="50" /> How to reach me:
    <a href="https://leetcode.com/u/malikkiran413/" target="blank">
       <img align="center" src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/bfb23df74b97d335979514f4026f6f20217850e5/leetcode.png" alt="leetcode" height="40" width="40" /> 
    </a>
@@ -35,11 +35,11 @@
 # 😎Describe about  me
 
 
-⚡ I have completed my B-Tech Computer Science and Engineering from Centurion University of Technology and Management , BBSR , Odisha.
+ <img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cc0f9da636f2d1b28d4d36079e35ec3710c98ae5/btech.png" alt="btech" width="50" /> I have completed my B-Tech Computer Science and Engineering from Centurion University of Technology and Management , BBSR , Odisha.
 
-⚡ I am looking for career growth. Currently, I’m looking for for full-time opportunity and research projects in the field of Cloud Computing, Data Analyst, Python Full-Stack Development and to build up my career and skills. 
+ <img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cc0f9da636f2d1b28d4d36079e35ec3710c98ae5/Laptop.png" alt="laptop" width="50" /> I am looking for career growth. Currently, I’m looking for for full-time opportunity and research projects in the field of Cloud Computing, Data Analyst, Python Full-Stack Development and to build up my career and skills. 
 
-- 👨‍💻 All of my projects are available at [https://kirankumarmalik.me/](https://kirankumarmalik.me/)
+- <img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/4cc18a07baee9be8855b99a12e5155cb12ec8372/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Comet" width="100" /> All of my projects are available at [https://kirankumarmalik.me/](https://kirankumarmalik.me/)
 
 
 
