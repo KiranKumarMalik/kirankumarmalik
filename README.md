@@ -3,15 +3,15 @@
 
 <img src="https://KiranKumarMalik.github.io/chinmayakumarbiswal/welcome.gif" height="300px" width="300px"> 
 
-•	 <img src="https://github.com/KiranKumarMalik/images/blob/main/Student.png" alt="student" width="50" /> I’m a Fresher!!!
+•	 <img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cc0f9da636f2d1b28d4d36079e35ec3710c98ae5/Student.png" alt="student" width="50" /> I’m a Fresher!!!
 
-•	 <img src="https://github.com/KiranKumarMalik/images/blob/main/Brain.png" alt="brain" width="50" /> 🌱 I have knowledge on Cloud Technology, DevOps and Python Programming.👋
+•	 <img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cc0f9da636f2d1b28d4d36079e35ec3710c98ae5/Brain.png" alt="brain" width="50" /> 🌱 I have knowledge on Cloud Technology, DevOps and Python Programming.👋
 
-•	 <img src="https://github.com/KiranKumarMalik/images/blob/main/looking.png" alt="looking" width="50" /> I’m looking for Full-time opportunity and research projects in the field of Cloud Computing, DevOps, Python Software/Full-Stack Development, Machine Learning and AI.
+•	 <img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cc0f9da636f2d1b28d4d36079e35ec3710c98ae5/looking.png" alt="looking" width="50" /> I’m looking for Full-time opportunity and research projects in the field of Cloud Computing, DevOps, Python Software/Full-Stack Development, Machine Learning and AI.
 
-•	 <img src="https://github.com/KiranKumarMalik/images/blob/main/Cloud.png" alt="cloud" width="50" /> Ask me about AWS or any tech related to Cloud and Python.
+•	 <img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cc0f9da636f2d1b28d4d36079e35ec3710c98ae5/Cloud.png" alt="cloud" width="50" /> Ask me about AWS or any tech related to Cloud and Python.
 
-•	 <img src="https://github.com/KiranKumarMalik/images/blob/main/Boy.png" alt="Boy" width="50" /> Pronouns: He/His
+•	 <img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cc0f9da636f2d1b28d4d36079e35ec3710c98ae5/Boy.png" alt="Boy" width="50" /> Pronouns: He/His
 
 •	📫 How to reach me:
    <a href="https://codepen.io/https://codepen.io/kirankumarmalik" target="blank">
