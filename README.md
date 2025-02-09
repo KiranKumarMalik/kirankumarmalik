@@ -24,7 +24,7 @@
       <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="https://www.kaggle.com/kirankumarmalik" height="50" width="50" />
    </a>
   <a href="https://www.hackerrank.com/https://www.hackerrank.com/malikkiran413" target="blank">
-      <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/768px-HackerRank_logo.png" alt="https://www.hackerrank.com/malikkiran413" height="60" width="60" />
+      <img align="center" src="https://github.com/JayantGoel001/HackerRank/blob/aaa8ad8825ef005044bb7a1b9c805efd9a6726c4/HackerRank.png" alt="https://www.hackerrank.com/malikkiran413" height="60" width="60" />
   </a>
 <br>
 
