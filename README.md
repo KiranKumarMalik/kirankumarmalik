@@ -14,17 +14,17 @@
 •	 <img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cc0f9da636f2d1b28d4d36079e35ec3710c98ae5/Boy.png" alt="Boy" width="50" /> Pronouns: He/His
 
 •	📫 How to reach me:
-   <a href="https://codepen.io/https://codepen.io/kirankumarmalik" target="blank">
-      <img align="center" src="https://cdn.freebiesupply.com/logos/thumbs/2x/codepen-logo.png" alt="https://codepen.io/kirankumarmalik" height="50" width="50" /> 
+   <a href="https://leetcode.com/u/malikkiran413/" target="blank">
+      <img align="center" src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/bfb23df74b97d335979514f4026f6f20217850e5/leetcode.png" alt="leetcode" height="50" width="50" /> 
    </a>
-   <a href="https://linkedin.com/in/https://www.linkedin.com/in/kiran-kumar-malik-01006a202/" target="blank">
-      <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" alt="https://www.linkedin.com/in/kiran-kumar-malik-01006a202/" height="50" width="50" />
+   <a href="https://www.linkedin.com/in/kirankm7/" target="blank">
+      <img align="center" src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/bfb23df74b97d335979514f4026f6f20217850e5/linkedin.png" alt="linkedin" height="50" width="50" />
       </a>
    <a href="https://kaggle.com/https://www.kaggle.com/kirankumarmalik" target="blank">
-      <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="https://www.kaggle.com/kirankumarmalik" height="50" width="50" />
+      <img align="center" src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/8f9dab60e8b517627e3b0fac3576159df2aa92ec/kaggle.png" alt="https://www.kaggle.com/kirankumarmalik" height="50" width="50" />
    </a>
   <a href="https://www.hackerrank.com/https://www.hackerrank.com/malikkiran413" target="blank">
-      <img align="center" src="https://github.com/JayantGoel001/HackerRank/blob/aaa8ad8825ef005044bb7a1b9c805efd9a6726c4/HackerRank.png" alt="https://www.hackerrank.com/malikkiran413" height="60" width="60" />
+      <img align="center" src="https://github.com/JayantGoel001/HackerRank/blob/aaa8ad8825ef005044bb7a1b9c805efd9a6726c4/HackerRank.png" alt="https://www.hackerrank.com/malikkiran413" height="50" width="60" />
   </a>
 <br>
 
