@@ -102,8 +102,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KiranKumarMalik&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-<img src="https://gtce.itsvg.in/api?username=KiranKumarMalik&theme=outrun" height="auto" width="100%"/>
 
 ### Thanks for Visiting my GitHub Profile!
 
