@@ -75,7 +75,7 @@
 
 
 ### DATABASES
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![OracleSQL](https://img.shields.io/badge/oracle-sql?style=for-the-badge&logo=oracle&color=red) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AmazonRDS](https://img.shields.io/badge/Amazon_RDS-%061c8a.svg?style=for-the-badge&logo=amazonrds&logoColor=white)
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![OracleSQL](https://img.shields.io/badge/oracle-sql?style=for-the-badge&logo=oracle&color=red) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AmazonRDS](https://img.shields.io/badge/Amazon_RDS-blue.svg?style=for-the-badge&logo=amazonrds&logoColor=white)
 
 
 ### DESIGN
