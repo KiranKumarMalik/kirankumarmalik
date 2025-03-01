@@ -90,8 +90,8 @@
 ![PowerBI](https://img.shields.io/badge/POWERBI-FCC624?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau&logoColor=black)
 
 
-### OTHER
-[![My Skills](https://skillicons.dev/icons?i=linux,ansible,docker,kubernetes,terraform,ubuntu,wordpress)](https://skillicons.dev) 
+### DevOps Tools
+[![My Skills](https://skillicons.dev/icons?i=linux,git,github,ansible,docker,kubernetes,terraform,ubuntu,wordpress,maven)](https://skillicons.dev) 
 
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiranKumarMalik&layout=compact&theme=outrun" alt="kirankumarmalik" /></p>
