@@ -35,7 +35,7 @@
 # 😎Describe about  me
 
 
- <img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/4077683942664107d369d9c0521472d8e05b5569/btech.png" alt="btech" width="50" /> I have completed my B-Tech Computer Science and Engineering from Centurion University of Technology and Management , BBSR , Odisha.
+ <img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/4077683942664107d369d9c0521472d8e05b5569/btech.png" alt="btech" width="50" /> I have completed my B-Tech Computer Science and Engineering from Centurion University of Technology and Management , BBSR , Odisha on 2024.
 
  <img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/4077683942664107d369d9c0521472d8e05b5569/Laptop.png" alt="laptop" width="50" /> I am looking for career growth. Currently, I’m looking for for full-time opportunity and research projects in the field of Cloud Computing, Data Analyst, Python Full-Stack Development and to build up my career and skills. 
 
