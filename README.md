@@ -135,3 +135,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KiranKumarMalik&icon=7&color=10)](https://kirankumarmalik.me)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
