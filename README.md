@@ -3,6 +3,33 @@
 </p>
 
 <img width="100%" src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/645b1fef8198bae11f9f5674ad3aeaa14e810fe2/githubnew.gif"/>
+
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
+
+<p align="center">
+<a href="https://piyushmalhotra.netlify.app/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+</a>
+<a href="https://www.linkedin.com/in/thepiyushmalhotra/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+<a href="https://thepiyushmalhotra.medium.com/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
+</a>
+<a href="https://dev.to/thepiyushmalhotra">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
+</a>
+  <a href="https://twitter.com/Ipiyushmalhotra">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
+</a>
+<a href="https://www.instagram.com/thepiyushmalhotra/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+</p>
+
+
 <h1> <img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cc0f9da636f2d1b28d4d36079e35ec3710c98ae5/looking.png" alt="looking" width="50" />Hi friends, I'm <a href="https://kirankumarmalik.me/">Kiran Kumar Malik </a><img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/4cc18a07baee9be8855b99a12e5155cb12ec8372/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Comet" width="100" /></h1>
 
 <img src="https://KiranKumarMalik.github.io/chinmayakumarbiswal/welcome.gif" height="300px" width="300px"> 
