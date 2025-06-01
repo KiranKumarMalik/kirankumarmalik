@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
 <img width="100%" src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/645b1fef8198bae11f9f5674ad3aeaa14e810fe2/githubnew.gif"/>
 <h1> <img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cc0f9da636f2d1b28d4d36079e35ec3710c98ae5/looking.png" alt="looking" width="50" />Hi friends, I'm <a href="https://kirankumarmalik.me/">Kiran Kumar Malik </a><img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/4cc18a07baee9be8855b99a12e5155cb12ec8372/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Comet" width="100" /></h1>
 
