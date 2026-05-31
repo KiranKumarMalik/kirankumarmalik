@@ -25,7 +25,7 @@
 
 <img src="https://KiranKumarMalik.github.io/chinmayakumarbiswal/welcome.gif" height="300px" width="300px"> 
 
-•	 <img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cc0f9da636f2d1b28d4d36079e35ec3710c98ae5/Student.png" alt="student" width="50" /> I’m a Fresher!!!
+•	 <img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cc0f9da636f2d1b28d4d36079e35ec3710c98ae5/Student.png" alt="student" width="50" /> I’m working as a Cloud Engineer at Volksara Techno Solutions Pvt Ltd.
 
 •	 <img src="https://github.com/KiranKumarMalik/kirankumarmalik/blob/cc0f9da636f2d1b28d4d36079e35ec3710c98ae5/Brain.png" alt="brain" width="50" /> 🌱 I have knowledge on Cloud Technology, DevOps, Python Full-Stack and Software Testing.👋
 
